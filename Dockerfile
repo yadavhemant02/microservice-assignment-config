@@ -1,0 +1,2 @@
+FORM openjdk
+CMD ["run"]
